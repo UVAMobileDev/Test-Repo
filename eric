@@ -1,0 +1,4 @@
+if eric is successful at github:
+  say "yay"
+else:
+  say "try again"
